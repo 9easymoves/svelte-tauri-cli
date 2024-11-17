@@ -1,0 +1,1 @@
+import { defineAddon } from '@sveltejs/cli-core';
